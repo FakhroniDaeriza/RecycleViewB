@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="jkTextView" type="id" />
+    <item name="jpTextView" type="id" />
+    <item name="namaTextView" type="id" />
+    <item name="nimTextView" type="id" />
+</resources>
