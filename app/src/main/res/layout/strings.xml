@@ -1,0 +1,19 @@
+<resoursces>
+    <string name="app_name">RecyclerView B </string>
+    <string-array name="jenisKelaminArray">
+        <item>Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string_array name="jpArray">
+        <item>SI/SI</item>
+        <item>TI/TI</item>
+        <item>IS/AC</item>
+        <item>IS/MG</item>
+    </string_array>
+    <string-array name="statusNikahArray">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Duda</item>
+        <item>Janda</item>
+    </string-array>
+</resoursces>
